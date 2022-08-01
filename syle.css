@@ -1,0 +1,145 @@
+@charset "utd-8";
+.body{
+    font-family: Tahoma, arial, sans-serif;
+    padding: 0;
+    margin: 0px;
+    background-color: white;
+}
+#menu{
+    width: 1025px;
+    margin: auto;
+    margin: 20px auto;
+}
+.header-top{
+    height: 50px;
+    background: #162028;
+    position: relative;
+  
+
+}
+.header-nav{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    
+}
+
+.logotipo{
+    margin: 5px 0 0 135px;
+}
+
+.header-nav li{
+list-style: none;
+display: inline-block;
+margin-right: 15px;
+
+}
+.portifolio{
+    text-align: center;
+    width: 1025px;
+    margin: 20px auto;
+    
+}
+
+.modelos{
+    display: flex;
+    width:810px;
+    margin: 20px auto;
+    position: relative;
+    top: 20px;
+}
+
+.about{
+    position: relative;
+    top: 60px;
+}
+.foto1{
+    padding-right: 20px;
+    
+}
+.foto2{
+    padding-right: 20px;
+}
+.foto1_titulo{
+    text-align: center;
+}
+.foto1_paragrafo{
+    text-align: center;
+}
+.foto2_titulo{
+    text-align: center;
+}
+.foto2_paragrafo{
+    text-align: center;
+}
+.foto3_titulo{
+    text-align: center;
+}
+.foto3_paragrafo{
+    text-align: center;
+}
+
+.imagen_detalhe{
+    display: flex;
+    width:600px;
+    margin: 20px auto;
+    height: 100%;
+    justify-content: center;  
+}
+.titulo_1{
+    text-align: center;
+    position: relative;
+    bottom: 459px;
+    color: white;
+    font-size: 30px;
+    right: 90px;
+    
+}
+.titulo_2{
+    text-align: center;
+    position: relative;
+    bottom: 467px;
+    color: white;
+    font-size: 28px;
+    right: 153px;
+    text-transform: uppercase;
+}
+.paragrafo_detalhe{
+    text-align: left;
+    position: relative;
+    bottom: 455px;
+    color: white;
+    font-size: 17px;
+    left: 690px;
+    line-height: 1.5;
+    width: 25%;
+   
+}
+.me-liga{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    font-size: larger;
+    
+}
+.mapa{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 450px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+
+    
+    
+}
+.rodape{
+    text-align: center;
+    color: #053449;
+    background-color: #001018;
+    padding: 12px;
+}
+.me-liga{
+    color: #053449;
+}
