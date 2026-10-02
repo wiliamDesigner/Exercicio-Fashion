@@ -71,10 +71,5 @@ Não há dependências nem etapa de build.
 - Galeria montada com `display: flex`
 - Seção *About* com texto posicionado sobre a imagem usando `position: relative`
 
-## 👤 Autor
 
-Exercício desenvolvido por **wiliam** como parte dos estudos de HTML e CSS.
 
-## 📄 Licença
-
-Projeto de uso educacional. Os textos em *Lorem Ipsum* e as imagens são apenas para fins de estudo.
