@@ -71,19 +71,6 @@ Não há dependências nem etapa de build.
 - Galeria montada com `display: flex`
 - Seção *About* com texto posicionado sobre a imagem usando `position: relative`
 
-## ⚠️ Pontos de atenção e melhorias
-
-Observações úteis para evoluir o projeto:
-
-- [ ] Renomear `syle.css` para `style.css` (e atualizar o `<link>` no HTML).
-- [ ] Corrigir `@charset "utd-8"` para `@charset "utf-8"` no CSS.
-- [ ] O seletor `.body` deveria ser `body` para que a fonte e a margem sejam aplicadas à página.
-- [ ] Há uma tag `<head>` dentro da seção *About*; o correto seria um `<div>`.
-- [ ] Preencher os atributos `alt` das imagens (acessibilidade).
-- [ ] Os links do menu usam `href="#"`; apontar para âncoras reais (`#portfolio`, `#about`, `#contact`).
-- [ ] O layout usa larguras e posições fixas em pixels; tornar responsivo com `max-width`, unidades relativas e *media queries*.
-- [ ] Padronizar as classes repetidas (`foto1_titulo`, `foto2_titulo`...) em uma classe única.
-
 ## 👤 Autor
 
 Exercício desenvolvido por **wiliam** como parte dos estudos de HTML e CSS.
