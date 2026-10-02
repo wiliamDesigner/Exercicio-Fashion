@@ -1,4 +1,4 @@
-# 👗 Exercício Fashion
+#  Exercício Fashion
 
 Página web estática de uma marca de moda fictícia (**Fast Fashion**), criada como exercício prático de **HTML5 e CSS3**. O objetivo é reproduzir fielmente o layout de referência (`layout_final.jpg`) usando apenas HTML e CSS, sem frameworks ou JavaScript.
 
